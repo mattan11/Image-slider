@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     window.addEventListener("touchmove", event => {
       if (dragging) {
-        move(event.touches[0].clientX);
+        move(event.touches[0].clientX); //pierwszy punkt dotyku
       }
     });
   }
