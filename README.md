@@ -22,4 +22,4 @@ JavaScript
 Webpack
 
 ## What have I learned
-In this project i developed my JavaScript skill by
+In this project I developed my JavaScript skill by adding touch handle on mobile phones.
