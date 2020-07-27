@@ -2,7 +2,7 @@
 This project consist of two pictures and vertical slider that allows to change which of these pictures are visible.
 
 
-## Installing rwd calories table
+## Install
 To install this project at your computer clone this repository and install all required dependencies.
 
 $ git clone https://github.com/mattan11/Image-slider
