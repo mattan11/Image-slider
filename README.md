@@ -1,26 +1,25 @@
 # Image Slider
-This project allows to check how many calories contains specific product. Table rendering depends on screen resolution.
+This project consist of two pictures and vertical slider that allows to change which of these pictures are visible.
 
 
 ## Installing rwd calories table
 To install this project at your computer clone this repository and install all required dependencies.
 
-$ git clone https://github.com/mattan11/rwd-calories-table
+$ git clone https://github.com/mattan11/Image-slider
 
 $ npm install
 
 ## Github Pages
-This project is located also at github pages at https://mattan11.github.io/rwd-calories-table/
+This project is located also at github pages at https://mattan11.github.io/Image-slider/
 
 ## Technologies used by project
 HTML
 
 SCSS
--media queries
 
 JavaScript
 
 Webpack
 
 ## What have I learned
-This project helps me how to efficently build layouts for different screen resolution.
+In this project i developed my JavaScript skill by
